@@ -3,3 +3,7 @@
 @tailwind utilities;
 
 /* body 기본 스타일 정의 */
+body {
+  color: #fff;
+  background-color: #121212;
+}
